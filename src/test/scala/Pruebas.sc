@@ -1,5 +1,5 @@
-import Oraculo.*
-import ReconstCadenas.*
+import Oraculo._
+import ReconstCadenas._
 
 import scala.util.Random
 

@@ -1,4 +1,4 @@
-import java.util.concurrent.*
+import java.util.concurrent._
 import scala.util.DynamicVariable
 
 package object common {
